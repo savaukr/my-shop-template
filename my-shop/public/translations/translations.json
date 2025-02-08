@@ -1,0 +1,17 @@
+{
+  "en": {
+    "header": {
+      "menu_btn": "Menu"
+    }
+  },
+  "uk": {
+    "header": {
+      "menu_btn": "Меню"
+    }
+  },
+  "ru": {
+    "header": {
+      "menu_btn": "Меню"
+    }
+  }
+}
