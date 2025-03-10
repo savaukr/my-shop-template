@@ -16,8 +16,13 @@
 .header__logo {
   position: absolute;
   left: 50%;
-  top: 8px;
+  top: 4px;
   transform: translateX(-65%);
+
+}
+.header__logo img {
+  height: 76px;
+  width: auto;
 }
 
 .header__links {
